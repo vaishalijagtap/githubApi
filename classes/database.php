@@ -6,7 +6,7 @@ class Database{
     private $host = "localhost";
     private $db_name = "github_api";
     private $username = "root";
-    private $password = "maithili@2";
+    private $password = "";
     public $conn;
   
     // get the database connection
